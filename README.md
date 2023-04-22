@@ -3,5 +3,5 @@
 Hey! I am Shivam Raghav, learning web development from Tanay Pratap from Youtube.
 
 For now I only know about 
-Repl.it
-CHALK
+1. Repl.it
+2. CHALK
